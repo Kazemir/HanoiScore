@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ханойские башни</string>
+
+    <string name="title_section1">Лёгкая сложность</string>
+    <string name="title_section2">Средняя сложность</string>
+    <string name="title_section3">Тяжёлая сложность</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Статистика</string>
+    <string name="dialog_message">Уникальных игроков:</string>
+
+    <string name="steps">Ходов:</string>
+    <string name="time">Время:</string>
+
+    <string name="ok">Ok</string>
+
+    <string name="network_error">Нет связи с сервером!</string>
+    <string name="error_occur">Произошла ошибка: </string>
+</resources>
